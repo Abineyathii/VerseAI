@@ -1,0 +1,6 @@
+.env
+*.mp3
+__pycache__/
+venv/
+.ipynb_checkpoints/
+models/
