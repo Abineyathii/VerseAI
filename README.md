@@ -21,4 +21,4 @@ EchoVerse converts text into expressive, AI-generated narration with tone select
    ```
 
 ## Demo
-![UI Screenshot](assets/ui_preview.png)
+![UI Screenshot](assets/final output.png)
